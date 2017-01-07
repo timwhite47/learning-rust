@@ -1,0 +1,8 @@
+[package]
+name = "ipaddress"
+version = "0.1.0"
+authors = ["Tim White <timwhite47@gmail.com>"]
+
+[dependencies]
+hyper = "*"
+json = "*"
